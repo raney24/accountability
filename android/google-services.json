@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036717565405",
+    "firebase_url": "https://accountability-1ee57.firebaseio.com",
+    "project_id": "accountability-1ee57",
+    "storage_bucket": "accountability-1ee57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036717565405:android:8fbe8087c9cb4d0b2e0234",
+        "android_client_info": {
+          "package_name": "com.accountability.zoomout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036717565405-51glb446aoifh5hk7o3ggr4udofhmur1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9bGGwZd50N7-rsxOwhE35rg5dBESYMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036717565405-51glb446aoifh5hk7o3ggr4udofhmur1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
