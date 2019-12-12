@@ -1,4 +1,4 @@
-package com.example.five_across;
+package com.accountability.zoomout;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
